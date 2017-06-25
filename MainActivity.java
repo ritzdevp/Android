@@ -7,12 +7,6 @@ import android.widget.TextView;
 
 import java.text.NumberFormat;
 
-/**
- * IMPORTANT: Add your package below. Package name can be found in the project's AndroidManifest.xml file.
- * This is the package name our example uses:
- * <p>
- * package com.example.android.justjava;
- */
 
 /**
  * This app displays an order form to order coffee.
